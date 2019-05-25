@@ -1,0 +1,40 @@
+.name-con, .telephone{
+  font-size: 20px;
+}
+
+.name, .cno {
+  padding-bottom: 10px;
+}
+
+.cno {}
+
+.content {
+  padding: 30px;
+}
+.telephone {
+  padding-bottom: 10px;
+}
+
+.change-mobile {
+  position: absolute;
+  top: 96px;
+  left: 550px;
+  /* border: 1px solid #d9d9d9; */
+}
+
+.btn-pwd {
+  margin-right: 43px;
+}
+
+.change-pwd {
+ width: 300px;
+}
+
+.change-pwd {
+  padding-bottom: 5px;
+}
+
+.inp-pwd {
+  padding: 15px 0 15px 0;
+}
+

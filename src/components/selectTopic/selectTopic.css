@@ -1,0 +1,33 @@
+#select-topic {
+  /* position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50% , -50%); */
+  /* position: absolute;
+  top: 30%;
+  left: 30%; */
+  /* display: flex;
+  justify-content: space-around;
+  width: 80%; */
+}
+
+.select-item {
+  margin-top: 280px;
+  margin-left: 50px;
+  display: flex;
+  flex-direction: column;
+  width: 100px;
+}
+
+.select-item Button{
+  margin: 10px;
+
+}
+
+.showValue {
+  /* margin-top: 215px;
+  margin-left: -180px; */
+  position: absolute;
+  top: 210px;
+  left: 250px;
+}

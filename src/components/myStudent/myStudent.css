@@ -1,0 +1,10 @@
+.ant-table-wrapper {
+  width: 830px;
+  /* padding-left: 10px; */
+  /* padding-top: 10px; */
+}
+.ant-card-bordered {
+  position: absolute;
+  right: 100px;
+  top: 126px;
+}

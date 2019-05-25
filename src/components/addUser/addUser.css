@@ -1,0 +1,84 @@
+#main {
+  height: 500px;
+  /* font-size: 15px; */
+}
+
+#main div {
+  padding-bottom: 0;
+}
+
+.inp-school {
+  width: 150px;
+  margin-left: 5px;
+  margin-right: 15px;
+}
+
+.inp-collage {
+  width: 150px;
+  margin-left: 5px;
+  margin-right: 15px;
+}
+
+span {
+  margin-right: 5px;
+}
+
+.date {
+  margin-right: 15px
+}
+
+.ant-btn-primary {
+  margin-bottom: 16px;
+  margin-top: 15px;
+  height: 40px;
+}
+
+.select {
+  /* margin-top: 2px; */
+  /* position: absolute; */
+}
+
+.editable-cell {
+  position: relative;
+}
+
+.editable-cell-value-wrap {
+  padding: 5px 12px;
+  cursor: pointer;
+  font-size: 10px;
+}
+
+.ant-spin-nested-loading {
+  width: 880px;
+  font-size: 10px;
+}
+
+.editable-row:hover .editable-cell-value-wrap {
+  border: 1px solid #d9d9d9;
+  border-radius: 4px;
+  padding: 4px 11px;
+}
+
+/* .submit {
+  position: absolute;
+  left: 368px;
+  top: 164px;
+  height: 40px;
+} */
+
+.ant-table-header-column {
+  font-size: 13px;
+}
+
+.submit {
+  margin-left: 28px;
+  /* position: absolute; */
+  /* right: 30px; */
+  /* top: 400px; */
+}
+
+.add {
+  position: absolute;
+  top: 172px;
+  right: 30px;
+}

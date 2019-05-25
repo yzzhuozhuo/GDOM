@@ -1,0 +1,16 @@
+.Submit {
+  margin-left: 55px;
+  /* position: absolute; */
+  /* right: 30px; */
+  /* top: 400px; */
+}
+
+.add {
+  position: absolute;
+  top: 172px;
+  right: 30px;
+}
+
+.inp-collage {
+  width: 150px;
+}

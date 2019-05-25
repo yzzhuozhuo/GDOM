@@ -1,0 +1,35 @@
+#my-main {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%)
+}
+
+.box-my {
+  width: 800px;
+  display: flex;
+  align-content: center;
+  justify-content: space-around;
+  /* border: 1px solid #dcdee2; */
+}
+
+.select-my,
+.project-my,
+.repeat-my {
+  width: 150px;
+  height: 80px;
+  text-align: center;
+  line-height: 80px;
+  border: 1px solid white;
+  background: skyblue;
+  color: white;
+  border-radius: 40px;
+}
+
+.select-my {}
+
+.project-my {}
+
+.repeat-my {}
+
+

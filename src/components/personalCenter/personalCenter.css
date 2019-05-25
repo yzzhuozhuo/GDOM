@@ -1,0 +1,32 @@
+#main {
+  width: 1130px;
+  height: 700px;
+  /* border: 1px solid #ffffff; */
+  /* background: #ffffff; */
+  padding: 20px;
+}
+
+#main div {
+  font-size: 20px;
+  padding-bottom: 10px;
+  /* border-bottom: 1px solid #cccccc; */
+}
+
+.card {
+  width: 400px;
+  /* height: 00px; */
+  font-size: 20px;
+}
+
+.card div {
+  padding-bottom: 15px;
+  text-align: center;
+  color: slateblue;
+}
+
+.ant-card-head-title {
+  font-size: 20px;
+  text-align: center;
+  line-height: 34px;
+  height: 46px;
+}

@@ -1,0 +1,39 @@
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 5px;
+  flex-direction: column;
+  /* width: 200px; */
+}
+
+.InpNumber {
+  width: 300px;
+  margin-bottom: 25px;
+}
+
+.Inp {
+  width: 130px;
+}
+
+.btn {
+  width: 140px;
+}
+
+.ant-btn-primary {
+  margin-top: 0;
+}
+
+.getCode {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 25px;
+  width: 338px;
+}
+
+.change {
+  margin-left: 160px;
+  color: cornflowerblue;
+  margin-top: -18px;
+  cursor: pointer;
+}
